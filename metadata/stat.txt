@@ -1,0 +1,72 @@
+  File: /home/juanc/jcPhrases/.git
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: 820h/2080d      Inode: 1301490     Links: 8
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 06:54:11.994346563 -0300
+Modify: 2024-03-14 06:58:08.694307586 -0300
+Change: 2024-03-14 06:58:08.694307586 -0300
+ Birth: 2024-03-14 06:43:51.424455594 -0300
+  File: /home/juanc/jcPhrases/0.txt
+  Size: 77              Blocks: 8          IO Block: 4096   regular file
+Device: 820h/2080d      Inode: 1725557     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 06:49:07.784403984 -0300
+Modify: 2024-02-10 17:05:15.375710433 -0300
+Change: 2024-02-10 17:05:15.375710433 -0300
+ Birth: 2024-02-10 17:05:15.375710433 -0300
+  File: /home/juanc/jcPhrases/1.txt
+  Size: 50              Blocks: 8          IO Block: 4096   regular file
+Device: 820h/2080d      Inode: 1404084     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 06:46:34.184433384 -0300
+Modify: 2024-02-14 15:46:26.515862579 -0300
+Change: 2024-02-14 15:46:26.515862579 -0300
+ Birth: 2024-02-14 15:46:26.515862579 -0300
+  File: /home/juanc/jcPhrases/2.txt
+  Size: 66              Blocks: 8          IO Block: 4096   regular file
+Device: 820h/2080d      Inode: 1397621     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 06:49:07.964403944 -0300
+Modify: 2024-02-17 09:11:07.569563340 -0300
+Change: 2024-02-17 09:11:07.569563340 -0300
+ Birth: 2024-02-17 09:11:07.569563340 -0300
+  File: /home/juanc/jcPhrases/3.txt
+  Size: 94              Blocks: 8          IO Block: 4096   regular file
+Device: 820h/2080d      Inode: 1707848     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 06:49:08.144403901 -0300
+Modify: 2024-02-17 19:20:48.412499074 -0300
+Change: 2024-02-17 19:20:48.412499074 -0300
+ Birth: 2024-02-17 19:20:48.412499074 -0300
+  File: /home/juanc/jcPhrases/4.txt
+  Size: 62              Blocks: 8          IO Block: 4096   regular file
+Device: 820h/2080d      Inode: 1663969     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 06:49:10.354403404 -0300
+Modify: 2024-02-25 22:58:28.481563695 -0300
+Change: 2024-02-25 22:58:28.481563695 -0300
+ Birth: 2024-02-25 22:58:28.481563695 -0300
+  File: /home/juanc/jcPhrases/5.txt
+  Size: 92              Blocks: 8          IO Block: 4096   regular file
+Device: 820h/2080d      Inode: 1666665     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 06:49:10.384403398 -0300
+Modify: 2024-02-29 23:01:59.285001481 -0300
+Change: 2024-02-29 23:01:59.285001481 -0300
+ Birth: 2024-02-29 23:01:59.285001481 -0300
+  File: /home/juanc/jcPhrases/6.txt
+  Size: 76              Blocks: 8          IO Block: 4096   regular file
+Device: 820h/2080d      Inode: 2005163     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-13 12:39:19.731318011 -0300
+Modify: 2024-03-13 12:38:56.411322627 -0300
+Change: 2024-03-13 12:38:56.411322627 -0300
+ Birth: 2024-03-13 12:38:56.411322627 -0300
+  File: /home/juanc/jcPhrases/encriptedPhrases
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: 820h/2080d      Inode: 1725573     Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/   juanc)   Gid: ( 1000/   juanc)
+Access: 2024-03-14 07:00:25.364275657 -0300
+Modify: 2024-03-14 07:00:25.364275657 -0300
+Change: 2024-03-14 07:00:25.364275657 -0300
+ Birth: 2024-02-10 17:08:10.955688850 -0300

@@ -1,0 +1,1 @@
+Knowledge is the DIR that you cannot just "sudo rm -rf /knowledge", and this is not about linux, is about life.
